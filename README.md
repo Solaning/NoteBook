@@ -14,3 +14,7 @@ Big Bang 涉及的工程列表：
 ● frameworks_smatisanos_base (smartisanos 框架层)  https://github.com/SmartisanTech/android_frameworks_smartisanos-base
 
 ● .repo/manifest/(更新repo manifest 和 README) https://github.com/SmartisanTech/android
+
+
+Google：https://github.com/google
+Gson:https://github.com/google/gson
